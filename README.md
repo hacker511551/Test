@@ -1,4 +1,5 @@
-pkg update && pkg upgrade -y
+Kurulum 30 dakika ortalama sürmektedir
+"pkg update && pkg upgrade -y"
 yazarak güncelleme yapın ardından 
 pkg install git -y
 yazıp git komutunu indirin ve şunu yazın
